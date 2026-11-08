@@ -1,0 +1,6 @@
+{
+  "name": "ChatOPIA",
+  "description": "Официальная веб-платформа классического блочного конструктора и мультиплеерной песочницы ChatOPIA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
